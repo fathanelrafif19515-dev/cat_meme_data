@@ -1,0 +1,29 @@
+{
+  "cats": [
+    { "id": "cat_1", "name": "Gun Cat", "url": "https://raw.githubusercontent.com/fathanelrafif19515-dev/cat_meme_data/main/cats/Cat-Shooting-AK-Green-Screen.mp4" },
+    { "id": "cat_2", "name": "Dancing Cat", "url": "https://raw.githubusercontent.com/fathanelrafif19515-dev/cat_meme_data/main/cats/Cat-Dances-to-Girlfriend-_-Green-Screen.mp4" },
+    { "id": "cat_3", "name": "Slapping Cat", "url": "https://raw.githubusercontent.com/fathanelrafif19515-dev/cat_meme_data/main/cats/Cat-hits-punches-slaps-another-cat.mp4" },
+    { "id": "cat_4", "name": "Side Eye Cat", "url": "https://raw.githubusercontent.com/fathanelrafif19515-dev/cat_meme_data/main/cats/Mr-Fresh-cat-sideeye-meme-green-screen.mp4" },
+    { "id": "cat_5", "name": "Nosy Cat", "url": "https://raw.githubusercontent.com/fathanelrafif19515-dev/cat_meme_data/main/cats/Nosy-Cat-Meme-Green-Screen.mp4" },
+    { "id": "cat_6", "name": "Happy Happy Cat", "url": "https://raw.githubusercontent.com/fathanelrafif19515-dev/cat_meme_data/main/cats/Happy-Happy-Happy-Cat-Green-Screen.mp4" },
+    { "id": "cat_7", "name": "Chipi Chipi Cat", "url": "https://raw.githubusercontent.com/fathanelrafif19515-dev/cat_meme_data/main/cats/Chipi-Chipi-Chapa-Chapa-Cat-_-Green-Screen (1).mp4" },
+    { "id": "cat_8", "name": "Crunchy Cat", "url": "https://raw.githubusercontent.com/fathanelrafif19515-dev/cat_meme_data/main/cats/crunchy.mp4" },
+    { "id": "cat_9", "name": "Spinning Cat", "url": "https://raw.githubusercontent.com/fathanelrafif19515-dev/cat_meme_data/main/cats/Green20Screen20Spinning20Cat20Meme.mp4" },
+    { "id": "cat_10", "name": "Crying Cat", "url": "https://raw.githubusercontent.com/fathanelrafif19515-dev/cat_meme_data/main/cats/nXItILZT-Cat-Crying-Meme-Green-Screen.mov" }
+  ],
+  "backgrounds": [
+    { "id": "bg_1", "name": "sofa_background", "url": "https://raw.githubusercontent.com/fathanelrafif19515-dev/cat_meme_data/main/background/sofa_background.jpg" }
+    { "id": "bg_2", "name": "pantai", "url": "https://raw.githubusercontent.com/fathanelrafif19515-dev/cat_meme_data/main/background/pantai.jpg" }
+    { "id": "bg_3", "name": "toko1", "url": "https://raw.githubusercontent.com/fathanelrafif19515-dev/cat_meme_data/main/background/toko1.jpg" }
+    { "id": "bg_4", "name": "toko2", "url": "https://raw.githubusercontemt.com/fathanelrafif19515-dev/cat_meme_data/main/background/toko2.jpg" }
+    { "id": "bg_5", "name": "gang_malem", "url": "https://raw.githubusercontent.com/fathanelrafif19515-dev/cat_meme_data/main/background/gang_malem.jpg" }
+    { "id": "bg_6", "name": "taman", "url": "https://raw.githubusercontent.com/fathanelrafif19515-dev/cat_meme_data/main/background/taman.jpg" }
+  ],
+  "items": [
+    { "id": "item_1", "name": "oops_chip", "url": "https://raw.githubusercontent.com/fathanelrafif19515-dev/cat_meme_data/main/item/oops.png" }
+    { "id": "item_2", "name": "lays_chip", "url": "https://raw.githubusercontent.com/fathanelrafif19515-dev/cat_meme_data/main/item/lays.png" }
+    { "id": "item_3", "name": "kitle_chip", "url": "https://raw.githubusercontent.com/fathanelrafif19515-dev/cat_meme_data/main/item/kitle.png" }
+    { "id": "item_4", "name": "aqua", "url": "https://raw.githubusercontent.com/fathanelrafif19515-dev/cat_meme_data/main/item/oops.png" }
+    { "id": "item_5", "name": "pucuk", "url": "https://raw.githubusercontent.com/fathanelrafif19515-dev/cat_meme_data/main/item/oops.png" }
+  ]
+}
